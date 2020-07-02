@@ -1,0 +1,6 @@
+GolfClubs Type , Made of , Function , GolfClub Loft
+driver/stell/Hit ball furthest/7 to 11 degrees
+hybrid/iron and wood/airborne shots easily/14 to 28 degrees
+fairwayWoods/metal and wood/For need more control/12 to 20 degrees
+iron/iron/mid-range shots/28 to 34 degrees
+wedges/iron/bounce off the ground/46 to 64 degrees
